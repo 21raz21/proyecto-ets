@@ -3,7 +3,7 @@
 # Anteproyecto - (Título Nombre del proyecto)
 
 <div align="center">
-<img src="../img/imagen-descriptiva-si-existe.png" />
+<img src="[../img/imagen-descriptiva-si-existe.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Fmaquina-expendedora-snack-crackers-comida-chatarra-bebidas-gaseosas-saling-venta-automatica-coleccion-dibujos-animados_8318825.htm&psig=AOvVaw1z_xsRPyXM4UYxg4-qeslg&ust=1680201305500000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiXqePjgf4CFQAAAAAdAAAAABAD)" />
 </div>
 
 ## Indice
