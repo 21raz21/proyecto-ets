@@ -47,5 +47,5 @@ Para este proyecto vamos a utilizar el lenguaje de programación llamado Python.
 #### Boceto de la solución
 
 <div align="center">
-<img src="../img/imagen-boceto.png" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/IMG-20230329-WA0016.jpg" />
 </div>
