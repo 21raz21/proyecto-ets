@@ -36,12 +36,16 @@ El objetivo sería realizar una máquina de vending, en la cual podremos comprar
 ### Arquitectura y tecnologías a utilizar.
 Para este proyecto vamos a utilizar el lenguaje de programación llamado Python. Además, vamos a utilizar HTML para hacer la página web de dicho proyecto.
 
+<div align="center">
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/html.png" />
+</div>
+
+<div align="center">
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/phyton.png" />
+</div>
 
 #### Boceto de la solución
 
-
 <div align="center">
 <img src="../img/imagen-boceto.png" />
-</div>
-
 </div>
