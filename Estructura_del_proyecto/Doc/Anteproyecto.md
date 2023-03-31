@@ -34,13 +34,11 @@ Una conocida marca de (inserte aquí producto a vender) quiere disponer de una b
 El objetivo sería realizar una máquina de vending, en la cual podremos comprar un producto, reponer el dinero de la máquina, reponer el stock de un producto y cambiar el precio de un producto.
 
 ### Arquitectura y tecnologías a utilizar.
-Para este proyecto vamos a utilizar el lenguaje de programación llamado Python.
+Para este proyecto vamos a utilizar el lenguaje de programación llamado Python. Además, vamos a utilizar HTML para hacer la página web de dicho proyecto.
 
->Nota: Breve descripción de lo que se pretende hacer.
 
 #### Boceto de la solución
 
->Nota: Dibujo de la solución que se va a implementar.
 
 <div align="center">
 <img src="../img/imagen-boceto.png" />
