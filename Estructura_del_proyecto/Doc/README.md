@@ -7,4 +7,4 @@ Se encuentra en la sección de documentación del proyecto.
 ## Índice:
 - [Anteproyecto](Anteproyecto.md)
 - [Diagrama-caso-uso](diagrama-clase.drawio.png)
-- [Diagrama-entidad-relación](Diagrama-entidad-relación.md)
+- [Diagrama-entidad-relación](vending-diagrama-entidad-relación.drawio.png)
