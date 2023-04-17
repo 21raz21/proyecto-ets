@@ -1,21 +1,21 @@
 <div align="justify">
 
-# Anteproyecto - (Título Nombre del proyecto)
+# Anteproyecto - RaYa
 
 <div align="center">
 <img src="https://github.com/21raz21/proyecto-ets/blob/feature_4/Estructura_del_proyecto/Doc/img/vending.avif" />
 </div>
 
 ## Indice
-- Descripción del problema.
-- Objetivo.
-- Arquitectura y tecnologías a utilizar.
-- Boceto de la solución
+- [descripción_del_problema](#descripcion_del_problema)
+- [objetivo](#objetivo)
+- [arquitectura_y_tecnologías_a_utilizar](#arquitectura_y_tecnologías_a_utilizar)
+- [boceto_de_la_solución](#boceto_de_la_solución)
 
 
 ### Descripción del problema.
 
-Una conocida marca de (inserte aquí producto a vender) quiere disponer de una base de datos que contenga información acerca de, (la gama del producto, precio, origen, destinatarios, cantidad) la compra y venta de sus productos en las máquinas dispensadoras. Los datos a tener en cuenta son:
+Una conocida marca reconocida quiere disponer de una base de datos que contenga información acerca del producto, precio, origen, destinatarios, cantidad, la compra y venta de sus productos en las máquinas dispensadoras. Los datos a tener en cuenta son:
 
 1. La gama del producto: cada producto tendrá una calidad que les de más o menos valor a la hora de comprar o vender
 
@@ -37,15 +37,15 @@ El objetivo sería realizar una máquina de vending, en la cual podremos comprar
 Para este proyecto vamos a utilizar el lenguaje de programación llamado Python. Además, vamos a utilizar HTML para hacer la página web de dicho proyecto.
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/html.png" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/html.png" />
 </div>
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/phyton.png" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/phyton.png" />
 </div>
 
 #### Boceto de la solución
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/Estructura_del_proyecto/Doc/img/IMG-20230329-WA0016.jpg" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
 </div>
