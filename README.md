@@ -2,7 +2,7 @@
 Repositorio dedicado al proyecto de ets.
 
 ## Índice:
-- [Doc](Doc)
-- [Source](Source)
-- [Despliegue](Despliegue)
-- [Testing](Testing)
+- [Doc](doc)
+- [Source](source)
+- [Despliegue](despliegue)
+- [Testing](testing)
