@@ -3,7 +3,7 @@
 # Anteproyecto - RaYa
 
 <div align="center">
-<img src="[../https://github.com/21raz21/proyecto-ets/blob/feature_4/Estructura_del_proyecto/Doc/img/vending.avif](https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png)" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
 </div>
 
 ## Indice
