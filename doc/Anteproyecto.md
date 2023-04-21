@@ -2,18 +2,19 @@
 
 # Anteproyecto - RaYa
 
-<div align="center">
+<div align="center" width="100px">
 <img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
 </div>
 
 ## Indice
-- [descripción del problema](#descripcion_del_problema)
-- [objetivo](#objetivo)
-- [arquitectura y tecnologías a utilizar](#arquitectura_y_tecnologias_a_utilizar)
-- [boceto de la solución](#boceto_de_la_solucion)
+  
 
+- [Objetivo](#objetivo)
+- [Descripción del problema](#Descripción)
+- [Arquitectura y tecnologías a utilizar](#arquitectura)
+- [Boceto de la solución](#boceto)
 
-### Descripción del problema.
+### Descripción <a name="Descripción"></a> del problema.
 
 Una conocida marca reconocida quiere disponer de una base de datos que contenga información acerca del producto, precio, origen, destinatarios, cantidad, la compra y venta de sus productos en las máquinas dispensadoras. Los datos a tener en cuenta son:
 
@@ -33,7 +34,7 @@ Una conocida marca reconocida quiere disponer de una base de datos que contenga 
 
 El objetivo sería realizar una máquina de vending, en la cual podremos comprar un producto, reponer el dinero de la máquina, reponer el stock de un producto y cambiar el precio de un producto.
 
-### Arquitectura y tecnologías a utilizar.
+### Arquitectura <a name="arquitectura"> y tecnologías a utilizar.
 Para este proyecto vamos a utilizar el lenguaje de programación llamado Python. Además, vamos a utilizar HTML para hacer la página web de dicho proyecto.
 
 <div align="center">
@@ -44,7 +45,7 @@ Para este proyecto vamos a utilizar el lenguaje de programación llamado Python.
 <img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/phyton.png" />
 </div>
 
-#### Boceto de la solución
+### Boceto <a name="boceto"> de la solución
 
 <div align="center">
 <img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
