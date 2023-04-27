@@ -3,7 +3,12 @@
 # Draft - RaYa
 
 <div align="center" width="100px">
-<img src="https://github.com/21raz21/ets-project/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
+<img src="<div align="justify">
+
+# Anteproyecto - RaYa
+
+<div align="center" width="100px">
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
 </div>
 
 ## Index
@@ -11,7 +16,7 @@
 
 - [Target](#target)
 - [Problem Description](#Description)
-- [Architecture and technologies to use] (# architecture)
+- [Architecture and technologies to use](#architecture)
 - [Solution sketch](#sketch)
 
 ### Description <a name="Description"></a> of the problem.
@@ -38,17 +43,17 @@ The objective would be to make a vending machine, in which we can buy a product,
 For this project we are going to use the programming language called Python. Also, we are going to use HTML to make the web page of said project.
 
 <div align="center">
-<img src="https://github.com/21raz21/sets-project/blob/main/doc/img/html.png" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/html.png" />
 </div>
 
 <div align="center">
-<img src="https://github.com/21raz21/sets-project/blob/main/doc/img/phyton.png" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/phyton.png" />
 </div>
 
 ### Sketch <a name="sketch"> of the solution
 
 <div align="center">
-<img src="https://github.com/21raz21/ets-project/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
+<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
 </div>
 
 
