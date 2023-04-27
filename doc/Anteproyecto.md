@@ -3,11 +3,6 @@
 # Draft - RaYa
 
 <div align="center" width="100px">
-<img src="<div align="justify">
-
-# Anteproyecto - RaYa
-
-<div align="center" width="100px">
 <img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
 </div>
 
