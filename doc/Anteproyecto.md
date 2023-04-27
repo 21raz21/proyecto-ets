@@ -1,52 +1,54 @@
 <div align="justify">
 
-# Anteproyecto - RaYa
+# Draft - RaYa
 
 <div align="center" width="100px">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
+<img src="https://github.com/21raz21/ets-project/blob/main/doc/img/logo-raya-social-marketing-academy-in-company.png" />
 </div>
 
-## Indice
+## Index
   
 
-- [Objetivo](#objetivo)
-- [Descripción del problema](#Descripción)
-- [Arquitectura y tecnologías a utilizar](#arquitectura)
-- [Boceto de la solución](#boceto)
+- [Target](#target)
+- [Problem Description](#Description)
+- [Architecture and technologies to use] (# architecture)
+- [Solution sketch](#sketch)
 
-### Descripción <a name="Descripción"></a> del problema.
+### Description <a name="Description"></a> of the problem.
 
-Una conocida marca reconocida quiere disponer de una base de datos que contenga información acerca del producto, precio, origen, destinatarios, cantidad, la compra y venta de sus productos en las máquinas dispensadoras. Los datos a tener en cuenta son:
+A well-known recognized brand wants to have a database that contains information about the product, price, origin, recipients, quantity, the purchase and sale of its products in the vending machines. The data to take into account are:
 
-1. La gama del producto: cada producto tendrá una calidad que les de más o menos valor a la hora de comprar o vender
+1. The range of the product: each product will have a quality that gives them more or less value when buying or selling
 
-2. Precio: No todos los productos tienen el mismo precio, dependerá de su calidad y demanda (mayor demanda, más caro y viceversa)
+2. Price: Not all products have the same price, it will depend on their quality and demand (greater demand, more expensive and vice versa).
 
-3. Origen: Quiere decir que cada producto viene de un proveedor distinto, puede elevar o reducir el precio o la calidad del producto
+3. Origin: It means that each product comes from a different supplier, it can raise or lower the price or quality of the product.
 
-4. Destinatarios: Los productos estarán orientados a compradores habituales y nuevos compradores (Me gustaría añadir algo del estilo, muestra gratuita para captar más ventas sobre el mismo comprador)
+4. Recipients: The products will be aimed at regular buyers and new buyers (I would like to add something like, free sample to capture more sales on the same buyer)
 
-5. Cantidad: Todos los productos tienen un stock, y para aumentar y bajar el precio la marca se guarda el derecho a jugar con el stock poniendo menos stock de un mismo producto para elevar su precio o subiendo el stock para bajar su precio.
+5. Quantity: All products have a stock, and to increase and decrease the price the brand reserves the right to play with the stock by putting less stock of the same product to raise its price or raising the stock to lower its price.
 
-6. Venta: La máquina le informará al vendedor del stock y el precio de compra del producto, así como negarse a recibir más cantidad del producto que el vendedor quiere vender. Cada producto comprado por la máquina expendedora tendrá su propio código
+6. Sale: The machine will inform the seller of the stock and the purchase price of the product, as well as refuse to receive more of the product that the seller wants to sell. Each product purchased by the vending machine will have its own code
 
-### Objetivo.
+### Aim.
 
-El objetivo sería realizar una máquina de vending, en la cual podremos comprar un producto, reponer el dinero de la máquina, reponer el stock de un producto y cambiar el precio de un producto.
+The objective would be to make a vending machine, in which we can buy a product, replace the money in the machine, replace the stock of a product and change the price of a product.
 
-### Arquitectura <a name="arquitectura"> y tecnologías a utilizar.
-Para este proyecto vamos a utilizar el lenguaje de programación llamado Python. Además, vamos a utilizar HTML para hacer la página web de dicho proyecto.
+### Architecture <a name="architecture"> and technologies to be used.
+For this project we are going to use the programming language called Python. Also, we are going to use HTML to make the web page of said project.
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/html.png" />
+<img src="https://github.com/21raz21/sets-project/blob/main/doc/img/html.png" />
 </div>
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/phyton.png" />
+<img src="https://github.com/21raz21/sets-project/blob/main/doc/img/phyton.png" />
 </div>
 
-### Boceto <a name="boceto"> de la solución
+### Sketch <a name="sketch"> of the solution
 
 <div align="center">
-<img src="https://github.com/21raz21/proyecto-ets/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
+<img src="https://github.com/21raz21/ets-project/blob/main/doc/img/IMG-20230329-WA0016.jpg" />
 </div>
+
+
