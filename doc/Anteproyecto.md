@@ -30,7 +30,7 @@ A well-known recognized brand wants to have a database that contains information
 
 6. Sale: The machine will inform the seller of the stock and the purchase price of the product, as well as refuse to receive more of the product that the seller wants to sell. Each product purchased by the vending machine will have its own code
 
-### Aim.
+### Objective.
 
 The objective would be to make a vending machine, in which we can buy a product, replace the money in the machine, replace the stock of a product and change the price of a product.
 
