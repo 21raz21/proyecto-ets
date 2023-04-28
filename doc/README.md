@@ -7,4 +7,3 @@ It is located in the documentation section of the project.
 ## Índice:
 - [Anteproyecto](Anteproyecto.md)
 - [Diagramas](diagramas)
-- [Diagrama-entidad-relación](vending-diagrama-entidad-relación.drawio.png)
