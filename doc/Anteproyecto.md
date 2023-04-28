@@ -7,14 +7,12 @@
 </div>
 
 ## Index
-  
-
-- [Target](#target)
-- [Problem Description](#Description)
+- [Problem Description](#description)
+- [Target](#Objective)
 - [Architecture and technologies to use](#architecture)
 - [Solution sketch](#sketch)
 
-### Description <a name="Description"></a> of the problem.
+### Description <a name="description"></a> of the problem.
 
 A well-known recognized brand wants to have a database that contains information about the product, price, origin, recipients, quantity, the purchase and sale of its products in the vending machines. The data to take into account are:
 
