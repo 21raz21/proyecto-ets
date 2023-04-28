@@ -1,0 +1,1 @@
+# En esta carpeta se añadirá el diagram de entidad relación
