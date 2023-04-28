@@ -13,6 +13,6 @@ Por otro lado, el dueño puede cambiar el precio de los productos.
 
 ### Diagrama <a name="diagrama"> de caso de uso.
 
-<img src="">
+<img src="https://github.com/21raz21/proyecto-ets/blob/feature_9/doc/img/vending_diagrama_caso_uso.png">
 
 ### Especificaciones <a name="especificaciones"> del diagrama.
