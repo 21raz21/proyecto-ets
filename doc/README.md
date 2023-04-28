@@ -6,5 +6,5 @@ It is located in the documentation section of the project.
 
 ## Índice:
 - [Anteproyecto](Anteproyecto.md)
-- [Diagrama-caso-uso](vending-diagrama-caso-uso.drawio.png)
+- [Diagramas](diagrama)
 - [Diagrama-entidad-relación](vending-diagrama-entidad-relación.drawio.png)
