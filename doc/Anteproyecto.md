@@ -7,10 +7,10 @@
 </div>
 
 ## Indice
-- [descripción del problema](#descripciondelproblema)
+- [descripción del problema](#descripcion del problema)
 - [objetivo](#objetivo)
-- [arquitectura y tecnologías a utilizar](#arquitecturaytecnologiasautilizar)
-- [boceto de la solución](#bocetodelasolucion)
+- [arquitectura y tecnologías a utilizar](#arquitectura y tecnologias a utilizar)
+- [boceto de la solución](#boceto de la solucion)
 
 
 ### Descripción del problema.
